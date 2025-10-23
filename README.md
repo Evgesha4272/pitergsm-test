@@ -10,10 +10,10 @@
 
 <h2>This test automates the order placement process:</h2>
 <ul>
-  <ol>It navigates to the website.</ol>
-  <ol>Selects the required product.</ol>
-  <ol>Parses the product price and compares it with the amount in the cart.</ol>
-  <ol>Proceeds to the checkout page.</ol>
-  <ol>Fills in the necessary details.</ol>
-  <ol>Completes the order.</ol>
-</il>
+  <li>It navigates to the website.</li>
+  <li>Selects the required product.</li>
+  <li>Parses the product price and compares it with the amount in the cart.</li>
+  <li>Proceeds to the checkout page.</li>
+  <li>Fills in the necessary details.</li>
+  <li>Completes the order.</li>
+</ul>
