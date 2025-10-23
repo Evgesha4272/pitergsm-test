@@ -1,4 +1,4 @@
-<h1 color = "red">To run the this test.</h1>
+<h1 style="color: blue>To run the this test.</h1>
 <ul>
   <li>Download the repository.</li>
   <li>Extract it.</li>
