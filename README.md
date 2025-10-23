@@ -1,5 +1,4 @@
-To run the this test.
-<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Daniil</a> 
+<h1>To run the this test.</h1>
 1) Download the repository.
 
 2) Extract it.
